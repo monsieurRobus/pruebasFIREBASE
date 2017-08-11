@@ -1,0 +1,26 @@
+body {
+    background: white;
+}
+
+#login {
+    padding: 12em 0;
+    margin: auto;
+    width:40%;
+    text-align: center;
+    font-family: sans-serif;
+    color:#ffAAAA;
+}
+
+legend {
+    color: white;
+    
+}
+
+form {
+    padding: 1em 4em;
+    text-align: left;
+}
+
+form  input {
+    color:white;
+}
